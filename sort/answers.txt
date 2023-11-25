@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Is the slowest when coming to sorting reversed50000.txt
+
+sort2 uses: Merge sort
+
+How do you know?: Is expedentially faster ad sorting larger amounts of data
+
+sort3 uses: Selection sort
+
+How do you know?: Is slightly faster at dealing with larger data sets then sort1 as it isnt required to loops back over the entire dataset to verify the sort.

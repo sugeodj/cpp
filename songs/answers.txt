@@ -1,0 +1,9 @@
+It seems that the users top 100 songs seem to reflect the top radio music at the current time.
+A few soundcloud rappers mixed in there such as trippie redd, murda beatz, as well as some rappers such as 21 savage, cardi b, and drake.
+
+I presume that the avgEnergy calculated in the sql query will be the most acdcurate means of data to represent the style of music they listen to,
+and that majority of the soungs in there top 100 likely fall close to this value.
+
+I would propose utilising jupyterlabs/notes along with python and the dataset file to analyse and visualise trends within and between the data,
+it may then be possible to expand our dataset to include a wider variety that covers a larger scale to draw an analysis of the current state
+of the music charts.

@@ -1,0 +1,9 @@
+---
+C COMMANDS
+---
+
+# Compiler
+
+touch hello.c
+gcc hello.c
+./a.out
